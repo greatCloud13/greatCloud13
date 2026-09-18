@@ -1,7 +1,10 @@
-# System.out.println("Hi, there! I'm ChaSeungHwan");
+# About Me
 
-## About Me
+## System.out.println("Hi, there! I'm ChaSeungHwan");
+
+## Educattion
 - 대구대학교 컴퓨터소프트웨어전공 (2021.02 ~ 2024.04)
+- 프로그래머스 데브코스: 백엔드 단기심화 8회차 (2026.09.16 ~ 진행중)
 
 ## Velog.io
 - [GreatCloud](https://velog.io/@greatcloud13/posts)
