@@ -3,6 +3,9 @@
 ## About Me
 - 대구대학교 컴퓨터소프트웨어전공 (2021.02 ~ 2024.04)
 
+## Velog.io
+- [GreatCloud](https://velog.io/@greatcloud13/posts)
+
 ## Projects
 - [ClimbingWith](https://github.com/greatCloud13/Climbing_Community_Server) | 클라이밍 커뮤니티 서비스 | 백엔드
 - [Bookmoa](https://github.com/greatCloud13/Bookmoa) | 알라딘 Open API를 활용한 도서 리뷰 서비스 | 백엔드
