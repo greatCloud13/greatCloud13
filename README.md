@@ -1,4 +1,4 @@
-# System.out.println("👋 Hi, there! I'm ChaSeungHwan👋");
+# System.out.println("Hi, there! I'm ChaSeungHwan");
 
 ## About Me
 - 대구대학교 컴퓨터소프트웨어전공 (2021.02 ~ 2024.04)
